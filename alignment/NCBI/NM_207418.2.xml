@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+ <!DOCTYPE INSDSet PUBLIC "-//NCBI//INSD INSDSeq/EN" "http://www.ncbi.nlm.nih.gov/dtd/INSD_INSDSeq.dtd">
+ <INSDSet>
+<INSDSeq>
+  <INSDSeq_locus>NM_207418</INSDSeq_locus>
+  <INSDSeq_length>2393</INSDSeq_length>
+  <INSDSeq_strandedness>single</INSDSeq_strandedness>
+  <INSDSeq_moltype>mRNA</INSDSeq_moltype>
+  <INSDSeq_topology>linear</INSDSeq_topology>
+  <INSDSeq_division>PRI</INSDSeq_division>
+  <INSDSeq_update-date>16-AUG-2013</INSDSeq_update-date>
+  <INSDSeq_create-date>20-APR-2004</INSDSeq_create-date>
+  <INSDSeq_definition>Homo sapiens family with sequence similarity 72, member D (FAM72D), mRNA</INSDSeq_definition>
+  <INSDSeq_primary-accession>NM_207418</INSDSeq_primary-accession>
+  <INSDSeq_accession-version>NM_207418.2</INSDSeq_accession-version>
+  <INSDSeq_other-seqids>
+    <INSDSeqid>ref|NM_207418.2|</INSDSeqid>
+    <INSDSeqid>gi|48675831</INSDSeqid>
+  </INSDSeq_other-seqids>
+  <INSDSeq_secondary-accessions>
+    <INSDSecondary-accn>XM_930040</INSDSecondary-accn>
+    <INSDSecondary-accn>XM_934223</INSDSecondary-accn>
+    <INSDSecondary-accn>XM_934226</INSDSecondary-accn>
+    <INSDSecondary-accn>XM_934233</INSDSecondary-accn>
+  </INSDSeq_secondary-accessions>
+  <INSDSeq_keywords>
+    <INSDKeyword>RefSeq</INSDKeyword>
+  </INSDSeq_keywords>
+  <INSDSeq_source>Homo sapiens (human)</INSDSeq_source>
+  <INSDSeq_organism>Homo sapiens</INSDSeq_organism>
+  <INSDSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</INSDSeq_taxonomy>
+  <INSDSeq_references>
+    <INSDReference>
+      <INSDReference_reference>1</INSDReference_reference>
+      <INSDReference_position>1..2393</INSDReference_position>
+      <INSDReference_authors>
+        <INSDAuthor>Strausberg RL</INSDAuthor>
+        <INSDAuthor>Feingold EA</INSDAuthor>
+        <INSDAuthor>Grouse LH</INSDAuthor>
+        <INSDAuthor>Derge JG</INSDAuthor>
+        <INSDAuthor>Klausner RD</INSDAuthor>
+        <INSDAuthor>Collins FS</INSDAuthor>
+        <INSDAuthor>Wagner L</INSDAuthor>
+        <INSDAuthor>Shenmen CM</INSDAuthor>
+        <INSDAuthor>Schuler GD</INSDAuthor>
+        <INSDAuthor>Altschul SF</INSDAuthor>
+        <INSDAuthor>Zeeberg B</INSDAuthor>
+        <INSDAuthor>Buetow KH</INSDAuthor>
+        <INSDAuthor>Schaefer CF</INSDAuthor>
+        <INSDAuthor>Bhat NK</INSDAuthor>
+        <INSDAuthor>Hopkins RF</INSDAuthor>
+        <INSDAuthor>Jordan H</INSDAuthor>
+        <INSDAuthor>Moore T</INSDAuthor>
+        <INSDAuthor>Max SI</INSDAuthor>
+        <INSDAuthor>Wang J</INSDAuthor>
+        <INSDAuthor>Hsieh F</INSDAuthor>
+        <INSDAuthor>Diatchenko L</INSDAuthor>
+        <INSDAuthor>Marusina K</INSDAuthor>
+        <INSDAuthor>Farmer AA</INSDAuthor>
+        <INSDAuthor>Rubin GM</INSDAuthor>
+        <INSDAuthor>Hong L</INSDAuthor>
+        <INSDAuthor>Stapleton M</INSDAuthor>
+        <INSDAuthor>Soares MB</INSDAuthor>
+        <INSDAuthor>Bonaldo MF</INSDAuthor>
+        <INSDAuthor>Casavant TL</INSDAuthor>
+        <INSDAuthor>Scheetz TE</INSDAuthor>
+        <INSDAuthor>Brownstein MJ</INSDAuthor>
+        <INSDAuthor>Usdin TB</INSDAuthor>
+        <INSDAuthor>Toshiyuki S</INSDAuthor>
+        <INSDAuthor>Carninci P</INSDAuthor>
+        <INSDAuthor>Prange C</INSDAuthor>
+        <INSDAuthor>Raha SS</INSDAuthor>
+        <INSDAuthor>Loquellano NA</INSDAuthor>
+        <INSDAuthor>Peters GJ</INSDAuthor>
+        <INSDAuthor>Abramson RD</INSDAuthor>
+        <INSDAuthor>Mullahy SJ</INSDAuthor>
+        <INSDAuthor>Bosak SA</INSDAuthor>
+        <INSDAuthor>McEwan PJ</INSDAuthor>
+        <INSDAuthor>McKernan KJ</INSDAuthor>
+        <INSDAuthor>Malek JA</INSDAuthor>
+        <INSDAuthor>Gunaratne PH</INSDAuthor>
+        <INSDAuthor>Richards S</INSDAuthor>
+        <INSDAuthor>Worley KC</INSDAuthor>
+        <INSDAuthor>Hale S</INSDAuthor>
+        <INSDAuthor>Garcia AM</INSDAuthor>
+        <INSDAuthor>Gay LJ</INSDAuthor>
+        <INSDAuthor>Hulyk SW</INSDAuthor>
+        <INSDAuthor>Villalon DK</INSDAuthor>
+        <INSDAuthor>Muzny DM</INSDAuthor>
+        <INSDAuthor>Sodergren EJ</INSDAuthor>
+        <INSDAuthor>Lu X</INSDAuthor>
+        <INSDAuthor>Gibbs RA</INSDAuthor>
+        <INSDAuthor>Fahey J</INSDAuthor>
+        <INSDAuthor>Helton E</INSDAuthor>
+        <INSDAuthor>Ketteman M</INSDAuthor>
+        <INSDAuthor>Madan A</INSDAuthor>
+        <INSDAuthor>Rodrigues S</INSDAuthor>
+        <INSDAuthor>Sanchez A</INSDAuthor>
+        <INSDAuthor>Whiting M</INSDAuthor>
+        <INSDAuthor>Madan A</INSDAuthor>
+        <INSDAuthor>Young AC</INSDAuthor>
+        <INSDAuthor>Shevchenko Y</INSDAuthor>
+        <INSDAuthor>Bouffard GG</INSDAuthor>
+        <INSDAuthor>Blakesley RW</INSDAuthor>
+        <INSDAuthor>Touchman JW</INSDAuthor>
+        <INSDAuthor>Green ED</INSDAuthor>
+        <INSDAuthor>Dickson MC</INSDAuthor>
+        <INSDAuthor>Rodriguez AC</INSDAuthor>
+        <INSDAuthor>Grimwood J</INSDAuthor>
+        <INSDAuthor>Schmutz J</INSDAuthor>
+        <INSDAuthor>Myers RM</INSDAuthor>
+        <INSDAuthor>Butterfield YS</INSDAuthor>
+        <INSDAuthor>Krzywinski MI</INSDAuthor>
+        <INSDAuthor>Skalska U</INSDAuthor>
+        <INSDAuthor>Smailus DE</INSDAuthor>
+        <INSDAuthor>Schnerch A</INSDAuthor>
+        <INSDAuthor>Schein JE</INSDAuthor>
+        <INSDAuthor>Jones SJ</INSDAuthor>
+        <INSDAuthor>Marra MA</INSDAuthor>
+      </INSDReference_authors>
+      <INSDReference_consortium>Mammalian Gene Collection Program Team</INSDReference_consortium>
+      <INSDReference_title>Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences</INSDReference_title>
+      <INSDReference_journal>Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)</INSDReference_journal>
+      <INSDReference_xref>
+        <INSDXref>
+          <INSDXref_dbname>doi</INSDXref_dbname>
+          <INSDXref_id>10.1073/pnas.242603899</INSDXref_id>
+        </INSDXref>
+      </INSDReference_xref>
+      <INSDReference_pubmed>12477932</INSDReference_pubmed>
+    </INSDReference>
+  </INSDSeq_references>
+  <INSDSeq_comment>PREDICTED REFSEQ: This record has not been reviewed and the function is unknown. The reference sequence was derived from AB096683.1.; On or before Jun 2, 2006 this sequence version replaced gi:88943692, gi:88943694, gi:88943696, gi:88943698, gi:46409459.; ##Evidence-Data-START## Transcript exon combination BM790537.1 [ECO:0000332] RNAseq introns single sample supports all introns ERS025082, ERS025084 [ECO:0000348] ##Evidence-Data-END##</INSDSeq_comment>
+  <INSDSeq_feature-table>
+    <INSDFeature>
+      <INSDFeature_key>source</INSDFeature_key>
+      <INSDFeature_location>1..2393</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1</INSDInterval_from>
+          <INSDInterval_to>2393</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>organism</INSDQualifier_name>
+          <INSDQualifier_value>Homo sapiens</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>mol_type</INSDQualifier_name>
+          <INSDQualifier_value>mRNA</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>taxon:9606</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>chromosome</INSDQualifier_name>
+          <INSDQualifier_value>1</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>map</INSDQualifier_name>
+          <INSDQualifier_value>1q21.1</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>gene</INSDFeature_key>
+      <INSDFeature_location>1..2393</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1</INSDInterval_from>
+          <INSDInterval_to>2393</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>family with sequence similarity 72, member D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>GeneID:728833</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>HGNC:33593</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>HPRD:14694</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>MIM:614712</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>exon</INSDFeature_key>
+      <INSDFeature_location>1..1000</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1</INSDInterval_from>
+          <INSDInterval_to>1000</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>inference</INSDQualifier_name>
+          <INSDQualifier_value>alignment:Splign:1.39.8</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>misc_feature</INSDFeature_key>
+      <INSDFeature_location>789..791</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>789</INSDInterval_from>
+          <INSDInterval_to>791</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>upstream in-frame stop codon</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>CDS</INSDFeature_key>
+      <INSDFeature_location>849..1298</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>849</INSDInterval_from>
+          <INSDInterval_to>1298</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>gastric cancer up-regulated-2; family with sequence similarity 72 member; gastric cancer up-regulated protein 2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>codon_start</INSDQualifier_name>
+          <INSDQualifier_value>1</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>transl_table</INSDQualifier_name>
+          <INSDQualifier_value>1</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>product</INSDQualifier_name>
+          <INSDQualifier_value>protein FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>protein_id</INSDQualifier_name>
+          <INSDQualifier_value>NP_997301.2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>GI:48675832</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>CCDS:CCDS44204.1</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>GeneID:728833</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>HGNC:33593</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>HPRD:14694</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>MIM:614712</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>translation</INSDQualifier_name>
+          <INSDQualifier_value>MSTNICSFKDRCVSILCCKFCKQVLSSRGMKAVLLADTEIDLFSTDIPPTNAVDFTGRCYFTKICKCKLKDIACLKCGNIVGYHVIVPCSSCLLSCNNRHFWMFHSQAVYDINRLDSTGVNVLLRGNLPEIEESTDEDVLNISAEECIR</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>exon</INSDFeature_key>
+      <INSDFeature_location>1001..1078</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1001</INSDInterval_from>
+          <INSDInterval_to>1078</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>inference</INSDQualifier_name>
+          <INSDQualifier_value>alignment:Splign:1.39.8</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>exon</INSDFeature_key>
+      <INSDFeature_location>1079..1203</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1079</INSDInterval_from>
+          <INSDInterval_to>1203</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>inference</INSDQualifier_name>
+          <INSDQualifier_value>alignment:Splign:1.39.8</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>exon</INSDFeature_key>
+      <INSDFeature_location>1204..2393</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1204</INSDInterval_from>
+          <INSDInterval_to>2393</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>inference</INSDQualifier_name>
+          <INSDQualifier_value>alignment:Splign:1.39.8</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>STS</INSDFeature_key>
+      <INSDFeature_location>2106..2221</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>2106</INSDInterval_from>
+          <INSDInterval_to>2221</INSDInterval_to>
+          <INSDInterval_accession>NM_207418.2</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>gene</INSDQualifier_name>
+          <INSDQualifier_value>FAM72D</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>gene_synonym</INSDQualifier_name>
+          <INSDQualifier_value>GCUD2</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>standard_name</INSDQualifier_name>
+          <INSDQualifier_value>RH25908</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>UniSTS:90498</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+  </INSDSeq_feature-table>
+  <INSDSeq_sequence>ggcaggaaaagcggaagagggagcgaaaaccaacgtgttcggtgacagaccccagcgccgactgagcctctaaagcgacttcagctctgccccaccaacaccaccgcgcgcccgggaacagccgctccgggaagaaacctgaggggactgcggggggcacgagggacagctgagggaagggaggacgcgagagaaacagcgcgagcacgctgagggccgggggttgccaggagaggggcccgcggacccgcagagcggaggaaggtccgggagaaaaggggcgggacggaggagaatccgggatcgcctggcagaaaaagagaagggagtttctgaatcctgggaagaggaggcgtgggtagggacgcttagcccgagatccgacagcagggaaccggagcgctccgggggaggggcttaatgctggggaagggatgtcttaaaagaggagaagctttaaattagacgatcggagaaggctgagggaattgctatgaaggggcgggagctgaagtgtagaggactcctttagacagcagaaagggaaagccgttgagaagttcccttcaaactccacctgcctcctctccaattcaaactccactcccttctccaaaagttaaaaggaaagccaagtttaccacgctcccctgttcctactcaataaatacttcttctactccgccaccgggaaaacagaaaaaaaaactaatttccttcccaatattaggacttagaaaagctctaggtcccgcaatttgaattttagcctaggggaatcaaaatagtaggagcattactcttgtttcctttttcaaaatcccacacctcatccttcctgcgacgccatgtccaccaacatttgtagtttcaaggacaggtgcgtgtccatcctgtgttgcaaattctgtaaacaagtgctcagctctaggggaatgaaggctgttttgctggctgatactgaaatagaccttttctctacagacatccctcctaccaacgcagtggacttcactggaagatgctatttcaccaaaatctgcaaatgtaaactgaaggacatcgcatgtttaaaatgtgggaacattgtaggttatcatgtgattgttccatgtagttcctgtcttctttcctgcaacaacagacacttctggatgtttcacagccaggcagtttatgatattaacagactagactccacaggtgtaaacgtcctacttcggggcaacttgccagagatagaagagagtacagatgaagatgtgttaaatatctcagcagaggagtgtattagataaatggaattatgatatatatgatatacaaacttttttctatttaaaaatatattaatggatcaactttaaaattgttagttgccagtgatcttttttggaaaacaaaaatggggcatttgttgatttatttattttctgtctctaattagttacctcagtttgattgaagccagtggagttgtgcttttcctctacttctacttcctctcccccacctttttctgcccagtgtaggtgtattcttaaattcagacgggaagattctttcacatatcactcagttacctcccaatctgggggagtttttcttacaacttgataccagataccattaattttacattcctgaataaaggcctagtacccacgcatatttcaaccatgcatatatcaagttcaaccgagttttaataggggattaaaaaaacaagctgttaggtttccatgggcactggttctcataggttctattggtgataactgctttaacatggagcaagagtttgtgaatcaggaaatagaataaattaaaatttaaaatatatagaggaatcctcttgattgctcagcatgatgttagataaatgagtttgtcagaaaatatcagtatacgctgtttaccaatgttatttatttacattcttctaaagccattatggatattgtattatgagagctaaacctaaataagttatcctgttccctaggaccttctctgtaaatagtgaattttagacgagtggtctgtcctaaatcttaaatagaaaaaaaaactaaagcgatttgcttaagccattgtacattataaagagctgttttgttttgctttgctttgctttgttttgtttttttaaagctgcattcagagctacaaaggaataggaaagtagggtagtgttggattctggttttatgtaactctaaaataaatgtatctctttaatatctcagttgtagggattttgtcaataccaaagcagactgagttgtggttttgtaaataaagttttttctaaaaatgaccattcttcctttaattttttgttatgcccacatattgtatgtaaaaatataaataaatagtacttaaagtat</INSDSeq_sequence>
+</INSDSeq>
+
+</INSDSet>
